@@ -1,8 +1,8 @@
-import { Check, GameController } from 'phosphor-react';
 import * as Dialog from '@radix-ui/react-dialog';
 import * as Checkbox from '@radix-ui/react-checkbox';
-import { Input } from './Form/input';
 import * as ToggleGroup from '@radix-ui/react-toggle-group';
+import { Check, GameController } from 'phosphor-react';
+import { Input } from './Form/input';
 import { useEffect, useState, FormEvent } from 'react';
 import axios from 'axios';
 
